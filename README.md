@@ -1,1 +1,1 @@
-# Bài tập giao diện web đơn giản của FPT Polytechnic.
+# Giao diện web đơn giản của FPT Polytechnic.
